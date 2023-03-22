@@ -7,7 +7,7 @@ const promptly = require('promptly');
     
     const configuration = new Configuration({
         // organization:"org-b0IxU8JTwXm3Ds6bqJ2MxJc1",
-        apiKey:'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'
+        apiKey:'API_KEY'
     });
     
     const openai = new OpenAIApi(configuration);
